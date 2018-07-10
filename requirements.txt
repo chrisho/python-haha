@@ -34,7 +34,6 @@ pkcs7==0.1.2
 protobuf==3.5.2.post1
 pycparser==2.18
 pycrypto==2.6.1
-python-dateutil==2.7.2
 pytz==2018.3
 pycryptodome==3.6.0
 pycurl==7.43.0.1
