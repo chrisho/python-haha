@@ -67,7 +67,7 @@ urllib3==1.22
 uWSGI==2.0.17
 var-dump==1.2
 wechatpy==1.6.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 WTForms==2.1
 xmltodict==0.11.0
 tablib==0.12.1
